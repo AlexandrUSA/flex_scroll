@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+}
+
+
+.text {
+	padding: 20px 100px;
+	text-align: center;
+}
+
+.text h2 {
+	text-transform: uppercase;
+	font-size: 42px;
+}
+
+.text p {
+	text-indent: 35px;
+	font-size: 30px;
+	text-align: justify;
+	transition: transform .5s;
+}
